@@ -1,6 +1,9 @@
 # SSRS-Report-of-Dow-Jones-Components
 Shows charts and information about the 30 stocks in the Dow Jones
 
+Here's what part of one of the reports looks like:
+http://ovnisoftware.com/images/SSRSReport.jpg
+
 How to get this SSRS report to work:
 
 1. Setup your database on SQL Server that holds the stock information.  Two options here:
