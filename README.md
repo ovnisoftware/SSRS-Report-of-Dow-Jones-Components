@@ -2,7 +2,7 @@
 Shows charts and information about the 30 stocks in the Dow Jones
 
 Here's what part of one of the reports looks like:
-http://ovnisoftware.com/images/SSRSReport.jpg
+![](https://github.com/ovnisoftware/SSRS-Report-of-Dow-Jones-Components/blob/master/SSRSReport.jpg)
 
 How to get this SSRS report to work:
 
